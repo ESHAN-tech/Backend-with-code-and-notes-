@@ -1,0 +1,23 @@
+{
+  "name": "sheryians",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "chacha": "echo \"this is good\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eshan Tiwari",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "accessibility": "^3.0.9",
+    "chalk": "^5.3.0",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.21.0",
+    "one-liner-joke": "^1.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
